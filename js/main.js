@@ -126,7 +126,7 @@ function s_1() {
 
         clearInterval(SI1);
 
-        var L2 = 'Looking for that ' + $("#tiktok-name").val() + '-Usernames...';
+        var L2 = 'Looking for that ' + $("#tiktok-name").val() + '-Video Link...';
 
         var L222 = L2 + '<strong>' + PERPER + '%</strong>';
 
@@ -136,7 +136,7 @@ function s_1() {
 
               clearInterval(SI2)
 
-              var L3 = 'Change fans value (+' + $("#fans-select option:selected").val() + ') in the TikTok database...';
+              var L3 = 'Sending Likes value (+' + $("#fans-select option:selected").val() + ') in the TikTok database...';
 
               var L333 = L3 + '<strong>' + PERPER + '%</strong>';
 
